@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plano de Aprendizagem 2024-1</title>
+</head>
+<body style="font-family: 'Arial', sans-serif; background-color: #f0f0f5; color: #333;">
+
+    <div style="max-width: 1200px; margin: 30px auto; padding: 20px; background-color: #fff; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);">
+        <header style="text-align: center; margin-bottom: 40px;">
+            <h1 style="font-size: 3em; color: #0056b3;">Plano de Aprendizagem Único 2024.1</h1>
+            <p style="font-size: 1.5em; color: #666;">Programação de Aulas Presenciais/Remotas de Turmas dos Cursos Presenciais</p>
+        </header>
+
+        <section>
+            <h2 style="font-size: 2em; margin-bottom: 20px; color: #0056b3; text-align: center; border-bottom: 2px solid #0056b3; padding-bottom: 10px;">Cronograma Acadêmico de Aulas e Avaliações</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
+
+                <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden; transition: all 0.3s ease;">
+                    <div style="position: absolute; top: 0; right: 0; background-color: #0056b3; color: #fff; padding: 10px; font-size: 1.2em; border-bottom-left-radius: 10px;">05 a 08/02</div>
+                    <h3 style="font-size: 1.4em; color: #0056b3; margin-bottom: 10px;">Semana 1</h3>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin-bottom: 10px; font-size: 1.1em;">Aula do Eixo Temático I - Tema 1</li>
+                        <li style="margin-bottom: 10px; font-size: 1.1em;">Aula Inaugural - Apresentação das diretrizes da disciplina, planejamento, estratégias para condução das aulas e os critérios de avaliação da aprendizagem.</li>
+                        <li style="margin-bottom: 10px; font-size: 1.1em;"><strong style="color: #d9534f;">09/02</strong> - Véspera de Carnaval</li>
+                    </ul>
+                </div>
+
+                <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden; transition: all 0.3s ease;">
+                    <div style="position: absolute; top: 0; right: 0; background-color: #0056b3; color: #fff; padding: 10px; font-size: 1.2em; border-bottom-left-radius: 10px;">12 a 16/02</div>
+                    <h3 style="font-size: 1.4em; color: #0056b3; margin-bottom: 10px;">Semana 2</h3>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin-bottom: 10px; font-size: 1.1em;">Aula do Eixo Temático I - Tema 1</li>
+                        <li style="margin-bottom: 10px; font-size: 1.1em;"><strong style="color: #d9534f;">12 e 13/02</strong> - Carnaval</li>
+                        <li style="margin-bottom: 10px; font-size: 1.1em;"><strong style="color: #d9534f;">14/02</strong> - Cinzas</li>
+                        <li style="margin-bottom: 10px; font-size: 1.1em;"><strong style="color: #d9534f;">16/02</strong> - Véspera Desfile Campeãs</li>
+                    </ul>
+                </div>
+
+                <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden; transition: all 0.3s ease;">
+                    <div style="position: absolute; top: 0; right: 0; background-color: #0056b3; color: #fff; padding: 10px; font-size: 1.2em; border-bottom-left-radius: 10px;">19 a 23/02</div>
+                    <h3 style="font-size: 1.4em; color: #0056b3; margin-bottom: 10px;">Semana 3</h3>
+                    <ul style="list-style: none; padding: 0;">
+                        <li style="margin-bottom: 10px; font-size: 1.1em;">Aula do Eixo Temático I - Tema 2</li>
+                        <li style="margin-bottom: 10px; font-size: 1.1em;">Atividade Prática Supervisionada - Início das orientações aos alunos das atividades integrantes da Atividade Prática Supervisionada para composição da nota da AV2.</li>
+                    </ul>
+                </div>
+
+                <!-- Continue com as semanas restantes -->
+
+            </div>
+        </section>
+
+        <footer style="text-align: center; padding: 20px; margin-top: 40px; background-color: #0056b3; color: #fff; border-radius: 0 0 10px 10px;">
+            <p style="font-size: 0.9em;">&copy; 2024 Instituição de Ensino - Todos os direitos reservados.</p>
+        </footer>
+    </div>
+
+</body>
+</html>
